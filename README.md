@@ -7,5 +7,11 @@ I use statistical modeling to build a classification model that determines wheth
 2. Import libraries and dataset
 3. Exploratory data anaylsis
     * Preprocessing data types
-4. Building Model
-5. Conclusion
+4. Building the Model
+    * Investigating model failures
+6. Conclusion
+
+
+Exploratory Analysis to determine how the variables are related and which are most likely to influence the loan status.
+![image](https://github.com/nmaniar9/Loan_Predictor/assets/44175458/5796cd6f-15cb-4e01-a721-e969aa49657a)
+
