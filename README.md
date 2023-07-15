@@ -13,7 +13,8 @@ I use statistical modeling to build a classification model that determines wheth
     * Investigating model failures
 6. Conclusion
 
-Using the data set to explore which features contribute most to the status of the loan. I selected logistic regression to build my classification model.
+Using the data set to explore which features contribute most to the status of the loan. The heat map below was a good indicator of what features are related to each other as well as the loan status. After deteriming the features I use logistic regression to build my model in order to classify loan status.
+
 ![image](https://github.com/nmaniar9/Loan_Predictor/assets/44175458/681aaf00-b92b-49e5-af78-f655d6016fac)
 
 
